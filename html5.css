@@ -1,0 +1,17 @@
+div {
+  float: left;
+border: 20px solid black;
+padding: 20px;
+margin: 20px;
+width: 80%;
+
+
+}
+
+.div1 {
+  box-sizing: content-box;
+}
+
+.div2 {
+  box-sizing: border-box;
+}
